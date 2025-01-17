@@ -49,14 +49,14 @@ document.getElementById("resume-button-1").onclick = (event) => {
     event.preventDefault(); // Prevent the default anchor behavior
 
     // Open the direct download link for the resume
-    window.open("https://drive.google.com/file/d/1PQh57Wvtd8YMOVAa-tO0NhP3x_mTlCYq/view?usp=drive_link", "_blank");
+    window.open("https://drive.google.com/file/d/1U0Xhe1iTuwVWuHLnSJUg9HAUyaIvP564/view?usp=sharing", "_blank");
 };
 
 document.getElementById("resume-button-2").onclick = (event) => {
     event.preventDefault(); // Prevent the default anchor behavior
 
     // Open the direct download link for the resume
-    window.open("https://drive.google.com/file/d/1PQh57Wvtd8YMOVAa-tO0NhP3x_mTlCYq/view?usp=drive_link", "_blank");
+    window.open("https://drive.google.com/file/d/1U0Xhe1iTuwVWuHLnSJUg9HAUyaIvP564/view?usp=sharing", "_blank");
 };
 
 
